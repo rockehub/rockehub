@@ -32,5 +32,5 @@
 
 <a href="https://rckthub.com/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=rockehub&repo=github-readme-stats&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=rockehub&repo=Payments&theme=material-palenight" />
 </a>    
