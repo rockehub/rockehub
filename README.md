@@ -25,11 +25,11 @@
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of
 
 <a href="https://rckthub.com/">
-  <img align="center" src="github-readme-stats.vercel.app/api?username=rockehub&show_icons=true&include_all_commits=true&theme=material-palenight" alt="rocketub's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rockehub&show_icons=true&include_all_commits=true&theme=material-palenight" alt="rocketub's github stats" />
 </a>
 <a href="https://rckthub.com/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="github-readme-stats.vercel.app/api/top-langs/?username=rockehub&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockehub&layout=compact&theme=material-palenight" />
 </a>
 
 <a href="https://rckthub.com/">
