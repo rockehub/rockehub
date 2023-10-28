@@ -1,8 +1,7 @@
 ### Hello, we are Rockethub
 
-<a href="https://discord.gg/pFdWUSBgd9">
-  <img align="left" alt="Rockethub Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
+Diving deep into the cosmos of code, we at Rockethub are passionate about crafting innovative digital solutions. From the fluidity of Dart, the intricacies of Java, the versatility of JavaScript, to the robustness of PHP, we embrace the diverse universe of programming languages to propel our projects into the stratosphere. Join us on this stellar journey as we push the boundaries of technology, one commit at a time.
+
 <br />
 <br />
 
